@@ -1,0 +1,28 @@
+{
+  "name": "@valeriypredein/ajs_task",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Valeriypredein/ajs_task#readme",
+  "bugs": {
+    "url": "https://github.com/Valeriypredein/ajs_task/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valeriypredein/ajs_task.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.28.0",
+    "@babel/core": "^7.28.0",
+    "@babel/preset-env": "^7.28.0",
+    "babel-loader": "^10.0.0",
+    "webpack": "^5.100.2",
+    "webpack-cli": "^6.0.1"
+  }
+}
